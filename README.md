@@ -13,7 +13,7 @@ Mossoró, RN · Brasil
 
 ---
 
-Desenvolvedor Full Stack com foco em TypeScript, React/Next.js e Node.js, atuando em produtos digitais na área da saúde e sistemas internos. Experiência com arquitetura de microservices, mensageria (Kafka, RabbitMQ, BullMQ), cloud (AWS) e foco em performance e manutenibilidade.
+Desenvolvedor Full Stack com foco em TypeScript, React/Next.js e Node.js, atuando em produtos digitais na área da saúde e sistemas internos. Experiência com arquitetura de microserviços, mensageria (Kafka, RabbitMQ, BullMQ), cloud (AWS) e foco em performance e manutenibilidade.
 
 Cursando **Ciência da Computação** na UFERSA · Em busca de novos desafios.
 
